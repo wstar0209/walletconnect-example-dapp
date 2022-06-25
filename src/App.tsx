@@ -723,7 +723,7 @@ class App extends React.Component<any, any> {
             </SModalContainer>
           ) : (
             <SModalContainer>
-              <SModalTitle>{"Call Request Rejected"}</SModalTitle>
+              <SModalTitle>{"Call Request Rejected."}</SModalTitle>
             </SModalContainer>
           )}
         </Modal>
