@@ -3,7 +3,7 @@
 ## Develop
 
 ```bash
-npm run start
+npm start
 ```
 
 ## Test
